@@ -1,0 +1,4 @@
+@echo off
+title Compiler
+"C:\Users\Gaming\Desktop\Ivory Package 742\742 Ivory\src\com\rs\game"
+pause
